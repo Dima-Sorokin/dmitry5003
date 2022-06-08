@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Dima.
+- 👀 I’m interested in programming and web development.
+- 🌱 I’m currently learning React and trying to proficient my js skills
+- 💞️ I’m looking to collaborate on React web projects
+- 📫 You can contact me on dmitry5003@gmail.com
